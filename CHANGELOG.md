@@ -1,5 +1,48 @@
 # Changelog
 
+## [1.3.1](https://github.com/dschach/campaign-member-status/compare/v1.3.0...v1.3.1) (2024-03-21)
+
+
+### Bug Fixes
+
+* **ci:** Update PR workflow to deploy proper metadata ([ef79d43](https://github.com/dschach/campaign-member-status/commit/ef79d43cd8f40b09c3880a5a403781073e4203a9))
+
+
+### Dependencies
+
+* **axios, wait-on:** Bump axios and wait-on ([#137](https://github.com/dschach/campaign-member-status/issues/137)) ([7b1a339](https://github.com/dschach/campaign-member-status/commit/7b1a3397252d30d208cbf0a706ace37e2bb912a2))
+
+
+### Build System
+
+* **@prettier/plugin-xml:** Bump @prettier/plugin-xml from 3.2.2 to 3.3.1 ([#158](https://github.com/dschach/campaign-member-status/issues/158)) ([5fa75c2](https://github.com/dschach/campaign-member-status/commit/5fa75c205200a8f7d64e52ff6f9278c57595b1cb))
+* **follow-redirects:** Bump follow-redirects from 1.15.3 to 1.15.4 ([#143](https://github.com/dschach/campaign-member-status/issues/143)) ([dcf6473](https://github.com/dschach/campaign-member-status/commit/dcf64737642856a11349966ab838fc4423c81dbb))
+* **follow-redirects:** Bump follow-redirects from 1.15.4 to 1.15.6 ([#162](https://github.com/dschach/campaign-member-status/issues/162)) ([12955f1](https://github.com/dschach/campaign-member-status/commit/12955f1f392ac2d3c3a6d500af1b8c1d42303287))
+* **husky:** Bump husky from 8.0.3 to 9.0.6 ([#149](https://github.com/dschach/campaign-member-status/issues/149)) ([5386d78](https://github.com/dschach/campaign-member-status/commit/5386d78e3985be2203e34ccc620c0b688d967724))
+* **husky:** Bump husky from 9.0.10 to 9.0.11 ([#159](https://github.com/dschach/campaign-member-status/issues/159)) ([bcdd5f5](https://github.com/dschach/campaign-member-status/commit/bcdd5f555acea99b2a53923bf2734b681191188b))
+* **husky:** Bump husky from 9.0.6 to 9.0.7 ([#151](https://github.com/dschach/campaign-member-status/issues/151)) ([d6e12e7](https://github.com/dschach/campaign-member-status/commit/d6e12e7c4be98eaba7e60cfe93e75175f93d8ab2))
+* **husky:** Bump husky from 9.0.7 to 9.0.10 ([#154](https://github.com/dschach/campaign-member-status/issues/154)) ([f38a906](https://github.com/dschach/campaign-member-status/commit/f38a9063d1f63c13514bb685d309ce83fca37780))
+* **lint-staged:** Bump lint-staged from 15.2.0 to 15.2.1 ([#153](https://github.com/dschach/campaign-member-status/issues/153)) ([217a562](https://github.com/dschach/campaign-member-status/commit/217a562dedaaeb7d9dda116779c6bf1f883834e1))
+* **lint-staged:** Bump lint-staged from 15.2.1 to 15.2.2 ([#157](https://github.com/dschach/campaign-member-status/issues/157)) ([21ec09b](https://github.com/dschach/campaign-member-status/commit/21ec09b233b8b4c11f5d29b149daed51d0addb39))
+* **marked:** Bump marked from 11.0.0 to 11.0.1 ([#140](https://github.com/dschach/campaign-member-status/issues/140)) ([0a616ca](https://github.com/dschach/campaign-member-status/commit/0a616cac95dcd05d4d1b7145c4eb870ebb04a26a))
+* **marked:** Bump marked from 11.0.1 to 11.1.0 ([#141](https://github.com/dschach/campaign-member-status/issues/141)) ([77ec242](https://github.com/dschach/campaign-member-status/commit/77ec2423bc2abd65d948ab2e8f7f8bc0ae2de7c3))
+* **marked:** Bump marked from 11.1.0 to 11.1.1 ([#142](https://github.com/dschach/campaign-member-status/issues/142)) ([9223b2b](https://github.com/dschach/campaign-member-status/commit/9223b2bab656b146366bdb6bb1933431bc03812c))
+* **marked:** Bump marked from 11.1.1 to 11.2.0 ([#150](https://github.com/dschach/campaign-member-status/issues/150)) ([580e3d4](https://github.com/dschach/campaign-member-status/commit/580e3d4dfd459e80eca5756e7922cb94b4bd997a))
+* **marked:** Bump marked from 11.2.0 to 12.0.1 ([#161](https://github.com/dschach/campaign-member-status/issues/161)) ([05f0e45](https://github.com/dschach/campaign-member-status/commit/05f0e45b3aadc1e8b99af6f1a6b2facb9c7de4fb))
+* **prettier-plugin-apex:** Bump prettier-plugin-apex from 2.0.1 to 2.1.0 ([#160](https://github.com/dschach/campaign-member-status/issues/160)) ([8f6b6bc](https://github.com/dschach/campaign-member-status/commit/8f6b6bc1bd741e6af2598502320dd2b77fae1c6a))
+* **prettier:** Bump prettier from 3.1.0 to 3.1.1 ([#139](https://github.com/dschach/campaign-member-status/issues/139)) ([39cbe35](https://github.com/dschach/campaign-member-status/commit/39cbe35de814fddfd605ade9f712a884f5a9a76b))
+* **prettier:** Bump prettier from 3.1.1 to 3.2.2 ([#144](https://github.com/dschach/campaign-member-status/issues/144)) ([1dc0b67](https://github.com/dschach/campaign-member-status/commit/1dc0b67c6da6d0e285bca1f12624ac1c4fbf95bc))
+* **prettier:** Bump prettier from 3.2.2 to 3.2.3 ([#145](https://github.com/dschach/campaign-member-status/issues/145)) ([824174b](https://github.com/dschach/campaign-member-status/commit/824174bd51ee8f8456b4c2f03fab988cb986e770))
+* **prettier:** Bump prettier from 3.2.3 to 3.2.4 ([#146](https://github.com/dschach/campaign-member-status/issues/146)) ([a83f233](https://github.com/dschach/campaign-member-status/commit/a83f233315786c9dcfcbd18688b6aeb3e45f6bf3))
+* **prettier:** Bump prettier from 3.2.4 to 3.2.5 ([#156](https://github.com/dschach/campaign-member-status/issues/156)) ([f2be3da](https://github.com/dschach/campaign-member-status/commit/f2be3da38eb061ffdffcf7a0e48b4a3bc9e2eac9))
+
+
+### Continuous Integration
+
+* **actions/cache:** Bump actions/cache from 3 to 4 ([#147](https://github.com/dschach/campaign-member-status/issues/147)) ([53549df](https://github.com/dschach/campaign-member-status/commit/53549df8594018d0758c787db4f6b48c7055631c))
+* **codecov/codecov-action:** Bump codecov/codecov-action from 3 to 4 ([#152](https://github.com/dschach/campaign-member-status/issues/152)) ([840166a](https://github.com/dschach/campaign-member-status/commit/840166a4aad9a7c576cb22fca9e8c5af41ace4fd))
+* **pmd/pmd-github-action:** Bump pmd/pmd-github-action from 1 to 2 ([#163](https://github.com/dschach/campaign-member-status/issues/163)) ([7afe3d1](https://github.com/dschach/campaign-member-status/commit/7afe3d1e9e62757b567bed0ef6f8ed59a95a5450))
+
 ## [1.3.0](https://github.com/dschach/campaign-member-status/compare/v1.2.0...v1.3.0) (2023-12-10)
 
 
